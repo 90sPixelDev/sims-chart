@@ -1,12 +1,12 @@
 {
-  "compilerOptions": {
-    "target": "es2015",
-    "module": "esnext",
-    "allowJs": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "outDir": "./dist"
-  },
-  "include": ["src"]
+	"compilerOptions": {
+		"target": "es2016",
+		"module": "esnext",
+		"allowJs": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"outDir": "./dist"
+	},
+	"include": ["src"]
 }
